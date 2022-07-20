@@ -50,7 +50,7 @@ This rfc currently only focuses on
 As this is currently not pushed to [chocolatey.org](https://chocolatey.org), one can only try this repo locally via: 
 
 * **install** <br>
-  from repo directory: <br>
+  from this repo/blenderbim directory: <br>
   `choco pack` to create the nupkg package <br>
   `choco install blenderbim -dv -s .  --force`
 * **uninstall** <br>
